@@ -34,7 +34,7 @@ This is my personal portfolio website showcasing my projects, skills, and achiev
 
 For any inquiries, feel free to reach out:
 - Email: khushalsingh9445@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/thekhushalsingh)
+- LinkedIn: [thekhushalsingh](https://linkedin.com/in/thekhushalsingh)
 
 ## License
 
